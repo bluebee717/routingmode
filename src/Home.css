@@ -1,7 +1,7 @@
 .containers{
     height: calc(100vh-3rem);
     width: calc(100vw-8rem);
-    background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.pixelstalk.net%2Fwp-content%2Fuploads%2F2016%2F11%2FEarth-From-Space-HD-Backgrounds.jpg&f=1&nofb=1&ipt=345f16aeb908fdf6e70c63e6460d747f3add5e186ed22d7a3109b7276533ecda&ipo=images");
+    background-image: url("./assets/hero.jpg");
     object-fit: contain;
 }
 
